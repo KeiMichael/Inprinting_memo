@@ -1,2 +1,4 @@
+## 個人用メモ
 消しゴムマジックみたいなやつ。<br>
-個人用メモ
+以下のレポジトリをcloneして、jupyter notebookを実行する。<br>
+https://github.com/geekyutao/Inpaint-Anything
